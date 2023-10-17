@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yuki-Tanaka-bike
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...English
-- 💞️ I’m looking to collaborate on ...Development of Honda's two-wheelers
+- 💞️ I’m looking to collaborate on ...Development of two-wheelers
 - 📫 How to reach me ...
 
 <!---
